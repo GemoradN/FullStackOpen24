@@ -27,7 +27,7 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes
 
-    graph TD;
+graph TD;
     A-->B;
     A-->C;
     B-->D;
